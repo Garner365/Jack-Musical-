@@ -109,5 +109,9 @@ a:active { text-decoration: none; }
     color: #ffffff;
 }
 .header h1{
-	color: #000000;
+	color: white
+}
+
+.header {
+	background: black;
 }
